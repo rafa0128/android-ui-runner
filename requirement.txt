@@ -1,0 +1,6 @@
+uiautomator2==2.16.22
+weditor==0.6.4
+selenium
+psutil
+logging
+logzero
